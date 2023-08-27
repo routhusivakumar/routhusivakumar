@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @routhusivakumar
-- 👀 I’m interested in crikcet
+- 👀 I’m interested in crikcet.
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on devops experts 
 - 📫 How to reach me ?
